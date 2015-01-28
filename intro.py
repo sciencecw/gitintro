@@ -8,3 +8,6 @@ now Im creating conflict
 
 
 A brave new branch
+only in branch
+
+merged
